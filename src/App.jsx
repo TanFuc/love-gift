@@ -5,7 +5,7 @@ import Letter from "./components/Letter";
 import SpecialLetter from "./components/SpecialLetter"; 
 
 const bgMusic = new Howl({
-  src: ["/src/assets/nhaccho.mp3"],
+  src: ["./src/assets/nhaccho.mp3"],
   loop: true,
   volume: 0.3,
 });
